@@ -1,3 +1,4 @@
+(to check code switch to master branch)
 # Cel projektu:
 
 Celem projektu jest zaprojektowanie i implementacja aplikacji webowej, która pomoże ludziom i
